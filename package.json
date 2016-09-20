@@ -1,0 +1,19 @@
+{
+  "name": "node-link",
+  "version": "0.0.1",
+  "description": "Ableton Link Wrapping Library for Node.js",
+  "dependencies": {
+    "boost-lib": "^0.11.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudedhazelnut/node-link.git"
+  },
+  "author": "cloudedhazelnut",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cloudedhazelnut/node-link/issues"
+  },
+  "homepage": "https://github.com/cloudedhazelnut/node-link#readme"
+}
