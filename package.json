@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Ableton Link Wrapping Library for Node.js",
   "dependencies": {
-    "boost-lib": "^0.11.2"
+    "boost-lib": "^0.11.3"
   },
   "devDependencies": {},
   "repository": {
