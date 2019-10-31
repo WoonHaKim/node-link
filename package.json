@@ -2,10 +2,10 @@
   "name": "node-link",
   "version": "0.1.0",
   "description": "Ableton Link Wrapping Library for Node.js",
-  "dependencies": {
-    "boost-lib": "^0.11.3"
+  "dependencies": {},
+  "devDependencies": {
+    "cmake-js": "^6.0.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/UHKim/node-link.git"
