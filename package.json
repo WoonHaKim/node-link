@@ -14,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/UHKim/node-link/issues"
   },
-  "homepage": "https://github.com/UHKim/node-link#readme"
+  "homepage": "https://github.com/UHKim/node-link#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
